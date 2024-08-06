@@ -292,10 +292,3 @@ def alphaRamp(n: int) -> None:
         
         m+=1
     pass
-
-'''
-   A
-  ABA
- ABCBA
-ABCDCBA
-'''
